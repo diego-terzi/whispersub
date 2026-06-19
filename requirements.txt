@@ -1,4 +1,4 @@
---extra-index-url https://download.pytorch.org/whl/cu121
-torch>=2.1.0
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.12.1+cu126
 faster-whisper>=1.0.3
 tqdm>=4.66.0
